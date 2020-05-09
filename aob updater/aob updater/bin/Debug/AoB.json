@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Gold Hack",
+    "Type": 0,
+    "AoB": "d1 66 ?? ?? ?? 46 03 01 61 ?? 05 ?? 66",
+    "Comments": "Change Gold"
+  },
+  {
+    "Name": "Gold Hack",
+    "Type": 2,
+    "AoB": "d1 66 ?? ?? ?? 46 03 01 61 ?? 05 ?? 66",
+    "Comments": "Change Gold"
+  },
+  {
+    "Name": "Gold Hack",
+    "Type": 1,
+    "AoB": "d1 66 ?? ?? ?? 46 03 01 61 ?? 05 ?? 66",
+    "Comments": "Change Gold"
+  },
+  {
+    "Name": "Thor",
+    "Type": 0,
+    "AoB": "d0 30 21 40 fb 85 03 29 10 07 00 00 c2 02 1e 57 c7 d2 af 82 d6 d1 66 25 73 d7 d3 60 ad 02 66 b6 28 0d 0a 00 00 d1 66 97 02 82 d6 10 66 00 00 d3 60 ad 02 10 06 00 00 2a c0 91 ab c1 ad 66 8d 1a 14 21 00 00 d0 d1 66 97 02 60 c7 03 87 46 e2 f4 01 01 82 d6 10 09 00 00 aa d6 c3 02 d1 92 02 08 02 10 30 00 00 d3 60 ad 02 66 85 18 14 14 00 00 d0 d1 66 97 02 60 91 03 87 46 a9 9d 02 01 82 d6 10 11 00 00 d3 60 ad 02 66 b7 2e 14 06 00 00 d1 66 97 02 82 d6 d2 48",
+    "Comments": "infinite thor test code"
+  }
+]
